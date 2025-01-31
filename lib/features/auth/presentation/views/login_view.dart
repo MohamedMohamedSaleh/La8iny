@@ -26,6 +26,7 @@ class _LoginViewState extends State<LoginView> {
                 child: Form(
               // key: cubit.formKey,
               // autovalidateMode: cubit.autovalidateMode,
+              // hello mohameed
               child: Column(
                 children: [
                   const SizedBox(
